@@ -1,13 +1,7 @@
 import express from 'express'
 import {createServer} from 'node:http'
-<<<<<<< HEAD
 import dotenv from "dotenv";
 dotenv.config();
-
-=======
-import dotenv from "dotenv"
-dotenv.config();
->>>>>>> cb6e748541035ce95cee28bd51c0b45760052fc4
 import mongoose from 'mongoose'
 import {connectToSocket} from './controllers/socketManager.js'
 
