@@ -22,7 +22,7 @@ import Badge from '@mui/material/Badge';
 // import { Container } from '@mui/system';
 
 
-const server_url = "http://localhost:8080";
+const server_url = "https://aapla-video-call-adw4.onrender.com";
 
 var connections = {};
 
